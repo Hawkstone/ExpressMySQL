@@ -1,0 +1,9 @@
+{
+  "name": "bezcode--node-js-mysql-example-",
+  "version": "0.0.0",
+  "description": "Bezcode (node js mysql example)",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
